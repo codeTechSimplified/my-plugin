@@ -11,3 +11,5 @@ $wp_emp = $table_prefix.'emp';
 
 $q = "DROP TABLE `$wp_emp`;";
 $wpdb->query($q);
+
+//for testing
